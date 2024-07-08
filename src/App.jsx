@@ -7,9 +7,11 @@ import HowItWorks from './components/HowItWorks';
 import Footer from './components/Footer';
 import { SpeedInsights } from "@vercel/speed-insights/react"
 import * as Sentry from '@sentry/react';
+import { div } from 'three/examples/jsm/nodes/Nodes.js';
 
 const App = () => {
   return (
+    
     <main className="bg-black">
       <Navbar />
       <Hero />
@@ -18,6 +20,9 @@ const App = () => {
       <Features />
       <HowItWorks />
       <Footer />
+      <div><SpeedInsights /></div>
+      
+
     </main>
   )
 }
