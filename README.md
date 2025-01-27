@@ -1,10 +1,6 @@
-###Apple iPhone Webpage
-#A basic webpage showcasing the Apple iPhone, built using modern web technologies:
+### Apple iPhone Webpage
+# A basic webpage showcasing the Apple iPhone, built using modern web technologies:
+THREE js
+React js
 
-
-#Three.js
-
-#React.js
-
-#🌐 Live Demo: https://iphone-swart.vercel.app/
-
+Live Demo : https://iphone-swart.vercel.app/
