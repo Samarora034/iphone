@@ -1,8 +1,6 @@
-# Deployedd on Vercel
-https://iphone-swart.vercel.app/
+Apple iPhone Webpage
+A basic webpage showcasing the Apple iPhone, built using modern web technologies:
 
-This is a basic webpage for the Apple Iphone using technologies such as:
-
-THREE js 
-React js
-
+Three.js
+React.js
+🌐 Live Demo: https://iphone-swart.vercel.app/
